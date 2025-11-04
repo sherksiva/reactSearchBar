@@ -1,8 +1,8 @@
 # reactSearchBar
 
-After pull do below step 
+To Start the project
 ```
 npm install
 npm start
 ```
-For a try i used vite
+Used Vite library for build
